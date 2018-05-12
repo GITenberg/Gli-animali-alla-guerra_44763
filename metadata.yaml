@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42912
     wikipedia: http://it.wikipedia.org/wiki/Giulio_Caprin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44763#Gli-animali-alla-guerra
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2014-01-26'
 gutenberg_type: Text
